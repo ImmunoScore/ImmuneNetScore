@@ -1,4 +1,4 @@
-# ImmunoScore
+# ImmuneNetScore
 A computational framework to profile networks of distinct immune-cells from tumor transcriptomes
 
 ImmuneNetScore VERSION 1.0            User  Perl Documentation  
