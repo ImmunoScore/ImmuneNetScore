@@ -1,0 +1,1 @@
+perl  ImmunoScore.pl  Example ./Example_config.txt ./GSE22153_quantile_normmatrix.txt
