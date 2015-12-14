@@ -1,11 +1,11 @@
 # ImmunoScore
 A computational framework to profile networks of distinct immune-cells from tumor transcriptomes
 
-ImmuneScore VERSION 1.0            User  Perl Documentation  
+ImmuneNetScore VERSION 1.0            User  Perl Documentation  
 
 NAME
 
-       ImmunoScore.pl  
+       ImmunoNetScore.pl  
 
 SYNOPSIS
 
@@ -17,7 +17,7 @@ SYNOPSIS
 USAGE
 
        
-       $perl ImmunoScore.pl [CASE_NAME] [CONFIG_FILE] [GEO_SERIES_MATRIX_FILE] 
+       $perl ImmunNetScore.pl [CASE_NAME] [CONFIG_FILE] [GEO_SERIES_MATRIX_FILE] 
 
 DESCRIPTION
 
@@ -108,4 +108,4 @@ AUTHOR
         Trevor Clancy - trevor.clancy@rr-research.no
 
 
-perl v5.8.8                       2015-12-12                        ImmuneScore VERSION 1.0
+perl v5.8.8                       2015-12-12                        ImmuneNetScore VERSION 1.0
