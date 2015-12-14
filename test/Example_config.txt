@@ -1,0 +1,12 @@
+#begin config
+#case: Example_config
+#accession: GSE22153
+#platform: GPL6102.annot
+#gene_platform:2
+#begin_data_platform: 30
+#patient_id_row: 34
+#sample_id_row: 79
+#saturation: 0.9
+#logratio: 0.5
+#exlude: 
+##end config
