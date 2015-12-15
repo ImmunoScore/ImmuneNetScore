@@ -13,8 +13,8 @@ my $num_args = $#ARGV + 1;
 if ($num_args != 3) {
   print "\nUsage: ImmuneProfiler.pl, lacking commmand line arguments\n";
   print "arg1: Case name\n";
-  print "arg2: Quantile normalized GEO matrix file name\n";
-  print "arg3: Configuration file for the GEO matrix case to run ImmuneScore\n";
+  print "arg2: Configuration file for the GEO matrix case to run ImmuneScore\n";
+  print "arg3: Quantile normalized GEO matrix file name\n";
   exit;
 }
 my ($case, $file_config, $file_GEO) =@ARGV;
